@@ -1,3 +1,5 @@
+Available for reading [here](https://github.com/Mathias-C/ethereum-analysis/blob/master/Ethereum%20Thesis.pdf)
+
 # Financial analysis of Ethereum
 
 - General description of cryptocurrencies and the Ethereum blockchain
